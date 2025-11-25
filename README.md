@@ -1,2 +1,3 @@
 # luogu
-Luogu.com.cn
+Learning notes from Luogu.com.cn
+Oscar Jiayue Feng
