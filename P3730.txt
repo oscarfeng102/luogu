@@ -1,3 +1,5 @@
+https://www.luogu.com.cn/problem/P3730
+
 本题解思路来源：[AiRC0S](https://www.luogu.com.cn/user/390770)（提交此题解已经过本人允许）
 
 

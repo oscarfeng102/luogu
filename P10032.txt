@@ -1,3 +1,5 @@
+https://www.luogu.com.cn/problem/P10032
+
 ## solve
 
 我们首先分析数列的变化情况。
